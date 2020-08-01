@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) Marcus Møller 2020.
+  ~
+  ~ Birth weight deviation is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Birth weight deviation is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Birth weight deviation.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <string name="app_name">Gestationsalder og vægtafvigelse</string>
+    <string name="ga_week">Uger</string>
+    <string name="ga_day">Dage</string>
+    <string name="gender_male">Dreng ♂</string>
+    <string name="gender_female">Pige ♀</string>
+    <string name="ga_header">Gestationalsalder (GA)</string>
+    <string name="bw_header">Fødselsvægt (gram)</string>
+    <string name="bw_unit">gram</string>
+    <string name="weightdeviation_percent">Vægtdeviation (%)</string>
+    <string name="weightdeviation_sd">Vægtdeviation (SD)</string>
+    <string name="bw_status">Fødselsvægt status</string>
+    <string name="bw_mean">Normalvægt for GA</string>
+    <string name="ga_days">Gestationsalder</string>
+    <string name="ga_weeks">GA (uger)</string>
+    <string name="btn_calculate">Udregn</string>
+    <string name="sex">Biologisk køn</string>
+    <string name="bw">Fødselsvægt</string>
+    <string name="plot_header">Graf</string>
+    <string name="error_bw_null">En fødselsvægt er krævet</string>
+    <string name="error_bw_interval">Accepterer kun fødselsvægte i intervallet 300 til 7000 gram</string>
+    <string name="deviation">Fødselsvægt deviation</string>
+    <string name="about_sd">Standard deviation (SD) er sat til 12 % af middel-fødselsvægt</string>
+    <string name="about_bw_status">Fødselsvægt status (LGA/AGA/SGA) er defineret ved cut-off sv.t. ±2 SD</string>
+    <string name="bw_input_hint">300–7000 gram</string>
+    <string name="about_references_header">Referencer</string>
+    <string name="about_header">Om</string>
+    <string name="about_info">Pædiatrisk applikation til udregning af vægtafvigelse for nyfødte ved givent køn, gestationsalder og fødselsvægt. Værktøjet er inspireret af programmet \"Gestationsalder og vægtafvigelse\" af Niels Knabe (nknabe.dk).</string>
+    <string name="about_calculations_header">Beregninger</string>
+    <string name="about_calculations">Beregninger er baseret på studiet Marsál K et al 1996. Standard deviation (SD) er sat til 12 % af middel-fødselsvægt. Fødselsvægt status (LGA/AGA/SGA) er defineret ved cut-off sv.t. ±2 SD.</string>
+    <string name="title_about">Om</string>
+    <string name="title_results">Udregning</string>
+</resources>

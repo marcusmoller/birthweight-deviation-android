@@ -1,0 +1,50 @@
+<!--
+  ~ Copyright (C) Marcus Møller 2020.
+  ~
+  ~ Birth weight deviation is free software: you can redistribute it and/or modify
+  ~ it under the terms of the GNU General Public License as published by
+  ~ the Free Software Foundation, either version 3 of the License, or
+  ~ (at your option) any later version.
+  ~
+  ~ Birth weight deviation is distributed in the hope that it will be useful,
+  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~ GNU General Public License for more details.
+  ~
+  ~ You should have received a copy of the GNU General Public License
+  ~ along with Birth weight deviation.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <string name="app_name">Birth weight deviation</string>
+    <string name="ga_week">Weeks</string>
+    <string name="ga_day">Days</string>
+    <string name="gender_male">Boy ♂</string>
+    <string name="gender_female">Girl ♀</string>
+    <string name="ga_header">Gestational age (GA)</string>
+    <string name="bw_header">Birth weight (grams)</string>
+    <string name="bw_unit">grams</string>
+    <string name="weightdeviation_percent">Weight deviation</string>
+    <string name="weightdeviation_sd">Weight deviation (SD)</string>
+    <string name="bw_status">Birth weight status</string>
+    <string name="bw_mean">Mean birth weight for GA</string>
+    <string name="ga_days">Gestational age</string>
+    <string name="ga_weeks">GA (weeks)</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="sex">Sex</string>
+    <string name="bw">Birth weight</string>
+    <string name="plot_header">Plot</string>
+    <string name="error_bw_null">A birth weight is required</string>
+    <string name="error_bw_interval">Only accepts birth weights between 300 and 7000 grams</string>
+    <string name="deviation">Birth weight deviation</string>
+    <string name="about_sd">Standard deviation (SD) is defined as 12 % of mean birth weight</string>
+    <string name="about_bw_status">Birth weight status (LGA/AGA/SGA) is defined as cut-off by ±2 SD</string>
+    <string name="bw_input_hint">300–7000 grams</string>
+    <string name="about_header">About</string>
+    <string name="about_info">Pediatric application for calculating birth weight deviation of newborns given sex, gestational age and birth weight. The tool is inspired by the application \"Gestationsalder og vægtafvigelse\" by Niels Knabe (nknabe.dk).</string>
+    <string name="about_references_header">References</string>
+    <string name="about_calculations_header">Calculations</string>
+    <string name="about_calculations">Calculations are based on the study Marsál K et al 1996. Standard deviation (SD) is defined as 12 % of mean birth weight. Birth weight status (LGA/AGA/SGA) is defined as cut-off by ±2 SD.</string>
+    <string name="title_about">About</string>
+    <string name="title_results">Results</string>
+</resources>
